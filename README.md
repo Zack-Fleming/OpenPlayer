@@ -18,11 +18,16 @@ The main features are split into the following categories: music, video, audio b
 
 ### Music
 
+Features regarding the playing and organizing of music files.
 
 ### Video
 
+Features regarding the playing and organizing of video files.
 
 ### Audio Book
 
+Features regarding the playing and organizing of audio book files. 
 
 ### Customization
+
+Features regarding the customization of UI elements. 
