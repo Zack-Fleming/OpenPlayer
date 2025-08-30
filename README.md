@@ -34,7 +34,7 @@ First, is my increased concern with the increasing amount of user data that larg
 
 I have been thinking more about what info various companies have on me, and if I can truly trust them with it. While I know that security and privacy is not impenetrable; I do know that some companies put more effort into data protection and privacy than others.
 
-With that said, OpenPlayer does not collect, store, or sell any user data. The only thing OpenPlayer keeps track of, is the number of times each media is played. This is to create the most and least played playlists. More info can be found in the privacy policy (NOT CREATED YET).
+With that said, OpenPlayer does not collect, store, or sell any user data. The only thing OpenPlayer keeps track of, is the number of times each media is played. This is to create the most and least played playlists. More info can be found in the [privacy policy](https://github.com/Zack-Fleming/OpenPlayer/blob/master/PRIVACY.md).
 
 ### User Control of Software
 
