@@ -5,7 +5,7 @@ OpenPlayer is an open-source android media player for music, videos, and audio b
 
 ## Who?
 
-Hello, My name is Zackery Fleming, I am a semi recent (at least in summer of 2025) college graduate with a degree in software development. I also have backgrounds in database management, networking, and cybersecurity.
+Hello, My name is Zackery Fleming, I am a semi recent (at least in summer of 2025) college graduate with a degree in software development. I also have backgrounds in database management, networking, and Cybersecurity.
 
 I develop various projects, which can be seen in my GitHub repositories. I hold the open-source community highly, and believe in things like user serviceability and user control over their hardware and software.
 
@@ -42,7 +42,7 @@ When it comes to user control in software, most software gives minimal control o
 
 OpenPlayer's open-source nature will also allows users to see that the developer, i.e. me, or contributors have not hidden features with potentially nefarious purposes. Think of software or games that were found to hide Bitcoin mining software within itself. 
 
-Also, OpenPlayer also contains many customizations for the GUI elements. Users will be able to change the majority of UI elements, from the color, font, and size of text, listing styles of media, and the used icons and images of the application as well. 
+Also, OpenPlayer also contains many customization for the GUI elements. Users will be able to change the majority of UI elements, from the color, font, and size of text, listing styles of media, and the used icons and images of the application as well. 
 
 ### Monetization
 
@@ -65,7 +65,7 @@ OpenPlayer will be distributed on the Google Play Store and here in the GitHub r
 
 Updating from the Play Store is as easy as either clicking the 'Check for Play Store Update' button, which brings you to the Play Store page. Or, set the Play Store to automatically update the app, when one is uploaded.
 
-Updating the app from GitHub releases, you will have to uninstall the old version and install the new one (a workaround will be found as apart of my road map for the app). I will implement a way to export and import user settings. These settings will include any playlists, customizations, and other edits the user has made to the default application.
+Updating the app from GitHub releases, you will have to uninstall the old version and install the new one (a workaround will be found as apart of my road map for the app). I will implement a way to export and import user settings. These settings will include any playlists, customization, and other edits the user has made to the default application.
 
 
 ## Main Features
@@ -82,7 +82,7 @@ A gantt chart showing the same tasks, but with their estimated time-to-completio
 
 I will take a bit of time to mention how the version numbers for OpenPlayer work. The version number has three parts: major version, minor version, and build number. The major version is the number of completed organizers on the gantt chart. The minor version is the number of tasks that have been completed, within an organizer. The build number is the number of times the project has been built between minor versions.
 
-For example, if i am on the third card under the fourth organizer, and have built the project fifteen times, the bersion number would be 4.3 build 15, or 4.3b15, or 4.3.15b.
+For example, if i am on the third card under the fourth organizer, and have built the project fifteen times, the version number would be 4.3 build 15, or 4.3b15, or 4.3.15b.
 
 For the changelog and releases, I will use the last listed option of: \<major\>.\<minor\>.\<build\>b.
 
