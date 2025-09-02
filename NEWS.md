@@ -3,6 +3,13 @@
 Any Important info/events for the project will go here, with the most recent on top. 
 
 
+### 09-02-2025 - Development Phase Delay
+
+There is a slight delay in the start of the development phase, as my day job doubled my hours this week. I should be able to start development either Wendnsday or Thursday.
+
+\- ZF
+
+
 ### 08-24-2025 - Planning Phase Ending Soon
 
 During the months of July and August, I have been planning and setting up the project and documentation. During this time the Gantt chart and to-do list was created on YouTrack. Most of this time is creating the tasks for the Gantt chart and sketching the UIs for the application.
